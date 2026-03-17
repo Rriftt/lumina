@@ -1,0 +1,16 @@
+.cache/
+_minted/
+build/
+compile_commands.json
+lumina
+nob
+*.dvi
+*.out
+*.old
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.gz
+*.toc
