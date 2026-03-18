@@ -46,6 +46,6 @@ to know how to use the app.
 Lumina is built using the following incredible open-source tools:
 
 * **[raylib](https://github.com/raysan5/raylib)** - A simple and easy-to-use library to enjoy videogames programming. Licensed under the zlib/libpng license.
-* **[stb_image.h](https://github.com/nothings/stb)** by Sean Barrett - Public domain image loader.
+* **[stb_image](https://github.com/nothings/stb)** by Sean Barrett - Public domain image loader.
 * **[nob.h](https://github.com/tsoding/nob.h)** by Alexey Kutepov (Tsoding) - A header-only library for writing build recipes in C. Licensed under the MIT License.
 
