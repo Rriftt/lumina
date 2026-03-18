@@ -1,0 +1,5 @@
+*.h linguist-language=C
+
+include/nob.h linguist-vendored
+include/stb_image.h linguist-vendored
+include/stb_image_write.h linguist-vendored
